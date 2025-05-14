@@ -1,9 +1,10 @@
-# Tsuru
+# Passo-a-Passo Tsuru
 1- Corte um quadrado de 15 cm, no papel dupla face da cor de sua preferência;
 
 2- Vire-o, colocando o lado sem cor para cima e na diagonal (forma de losângulo);
 
 3- Dobre-o ao meio de forma que as pontas se encontrem. Passe as mãos várias vezes sobre a dobra de forma que ela fique bem marcada;
+(/imagem/img1)
 
 4- Repare que o losângulo, depois de dobrado, assumiu a forma de um triangulo. Inverta a sua posição, colocando a base para cima e o bico para baixo;
 
