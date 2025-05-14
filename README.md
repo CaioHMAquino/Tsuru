@@ -1,42 +1,98 @@
-# Passo-a-Passo Tsuru
+# 🕊️ Passo-a-Passo: Como Fazer um Tsuru (Origami)
 
-1- Pegue uma folha quadrada de 15cm e pinte um dos lados (para diferenciar as faces);
+## 1. Prepare o Papel
+Pegue uma folha **quadrada de 15cm** e **pinte um dos lados** (isso ajudará a identificar as dobras).
 
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img1.jpeg)
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img1.jpeg" width="300"/>
 
-2- Com o lado branco pra cima, dobre o quadrado de forma com que as suas pontas se encontrem, depois desdobre e repita com as outras pontas;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img3.jpeg)
+---
 
-3- Depois, vire o lado colorido para cima e dobre o quadrado ao meio, deixando as dobras marcadas;
+## 2. Dobre na Diagonal
+Com o lado branco para cima, dobre o quadrado nas diagonais (juntando as pontas), e depois desdobre.
 
-4- Com isso feito, junte as pontas da folha de forma a formar algo semelhe a uma ponta de flecha, depois planifique, colocando duas partes para cada lado;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img5.jpeg)
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img3.jpeg" width="300"/>
 
-5- Agora, identifique onde estão as pontas soltas, e dobre a parte inferior das duas faces do seguinte modo:
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img6.jpeg)
+---
 
-6- Repita o processo de cima na parte de trás;
+## 3. Dobre ao Meio
+Vire o lado colorido para cima e **dobre ao meio horizontalmente e verticalmente**, criando vincos bem marcados.
 
-7- Agora desdobre o que foi feito, e abra um dos lados;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img7.jpeg)
+---
 
-8- Agora pegue o triângulo que você havia feito e repita seguindo as linhas de dobra, mas do lado de dentro do losango;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img8.jpeg)
+## 4. Forme a Base
+Junte as pontas da folha até formar algo como uma **ponta de flecha**. Achate o papel, dividindo-o com **duas abas para cada lado**.
 
-9- Ao final deste processo, o papel deve estar assim:
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img9.jpeg)
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img5.jpeg" width="300"/>
 
-10- Agora abra o papel ao meio, sem desfazer as dobras feitas no passo anterior;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img10.jpeg)
+---
 
-11- Faça algo semelhante ao passo 5, mas na parte com as 2 pontas separadas;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img11.jpeg)
+## 5. Dobre a Parte Inferior
+Localize as **pontas soltas** e dobre as laterais inferiores das duas faces para dentro.
 
-12- Dobre em sentido horizontal, e depois com as outras pontas dobre para cima;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img13.jpeg)
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img6.jpeg" width="300"/>
 
-13- O resultado deve ser semelhante a este:
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img14.jpeg)
+---
 
-14- E por fim dobre as asas e o bico, e pronto, você completou o seu Tsuru;
-![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img15.jpeg)
+## 6. Repita Atrás
+Repita o mesmo processo no verso da dobradura.
+
+---
+
+## 7. Desdobre e Abra
+Desdobre o que foi feito no passo anterior e abra uma das laterais cuidadosamente.
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img7.jpeg" width="300"/>
+
+---
+
+## 8. Reforme o Triângulo
+Pegue o triângulo e dobre para dentro do losango, utilizando os vincos já existentes.
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img8.jpeg" width="300"/>
+
+---
+
+## 9. Estrutura Base
+Ao final, o papel deve estar com esta aparência:
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img9.jpeg" width="300"/>
+
+---
+
+## 10. Abra ao Meio
+Abra a estrutura ao meio, **sem desfazer as dobras** feitas até aqui.
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img10.jpeg" width="300"/>
+
+---
+
+## 11. Dobre as Extremidades
+Faça dobras semelhantes ao passo 5, agora nas duas pontas separadas.
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img11.jpeg" width="300"/>
+
+---
+
+## 12. Dobre para Cima
+Com as abas horizontais prontas, **dobre as pontas para cima** para formar o pescoço e o rabo.
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img13.jpeg" width="300"/>
+
+---
+
+## 13. Estrutura Final
+Seu Tsuru deve estar parecido com este formato:
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img14.jpeg" width="300"/>
+
+---
+
+## 14. Finalize com Asas e Bico
+**Dobre as asas** e o **bico do Tsuru**, e pronto! 🕊️
+
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img15.jpeg" width="300"/>
+
+---
+
+### ✨ Parabéns! Você finalizou seu Tsuru!  
+Um símbolo de paz, esperança e longevidade.
