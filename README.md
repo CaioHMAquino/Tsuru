@@ -5,7 +5,7 @@
 
 3- Dobre-o ao meio de forma que as pontas se encontrem. Passe as mãos várias vezes sobre a dobra de forma que ela fique bem marcada;
 
-![Imagem Exemplo]([https://via.placeholder.com/150](https://github.com/CaioHMAquino/Tsuru/blob/main/imagens/img1.jpeg))
+![Imagem Exemplo](https://github.com/CaioHMAquino/Tsuru/blob/main/img1.jpeg)
 
 4- Repare que o losângulo, depois de dobrado, assumiu a forma de um triangulo. Inverta a sua posição, colocando a base para cima e o bico para baixo;
 
