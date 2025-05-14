@@ -90,7 +90,7 @@ Seu Tsuru deve estar parecido com este formato:
 ## 14. Finalize com Asas e Bico
 **Dobre as asas** e o **bico do Tsuru**, e pronto! 🕊️
 
-<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img14.jpeg" width="300"/>
+<img src="https://github.com/CaioHMAquino/Tsuru/blob/main/img15.jpeg" width="300"/>
 
 ---
 
